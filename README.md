@@ -3,7 +3,8 @@
 
 This pack sells for **$2** on Bandcamp, Looperman, Sample Focus, Splice, and other commercial sample platforms — and is **free forever** from the official channels:
 
-- [⬇️ Latest GitHub release](https://github.com/GareBear99/TizWildin-Skyline/releases/latest) (ZIP)
+- [⬇️ Download the current ZIP](https://github.com/GareBear99/TizWildin-Skyline/archive/refs/heads/main.zip) — full pack, always up to date
+- [🔖 Releases page](https://github.com/GareBear99/TizWildin-Skyline/releases) — tagged versions
 - [🌐 TizWildin website](https://garebear99.github.io/TizWildinEntertainmentHUB/)
 - [🏛️ TizWildin Hub repo](https://github.com/GareBear99/TizWildinEntertainmentHUB) — full catalog of free plugins + sample packs
 
